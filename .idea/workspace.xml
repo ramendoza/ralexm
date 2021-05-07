@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/dv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/flower_ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/merco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/shop_ad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/taza.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/techie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/wsdev.png" afterDir="false" />
+    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="[ADD] experience and portfolio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photography-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +16,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -115,8 +110,16 @@
       <workItem from="1540866820809" duration="3624000" />
       <workItem from="1541005833808" duration="46000" />
       <workItem from="1541388841887" duration="1418000" />
-      <workItem from="1620330569204" duration="6426000" />
+      <workItem from="1620330569204" duration="7688000" />
     </task>
+    <task id="LOCAL-00001" summary="[ADD] experience and portfolio">
+      <created>1620399041907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620399041907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -161,11 +164,10 @@
       </map>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[ADD] experience and portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] experience and portfolio" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
