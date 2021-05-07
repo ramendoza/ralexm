@@ -2,6 +2,11 @@
 // Don't forget to add it into respective layouts where this js file is needed
 
 $(document).ready(function() {
+  var birthday = new Date('1992/07/09')
+  var ageDifMs = Date.now() - birthday.getTime();
+  var ageDate = new Date(ageDifMs); // miliseconds from epoch
+  var age = Math.abs(ageDate.getUTCFullYear() - 1970);
+  $('#age').html(age);
   AOS.init( {
     // uncomment below for on-scroll animations to played only once
     // once: true  
