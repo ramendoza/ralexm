@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="[FIX] Information">
+    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="[FIX] meta content description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +112,8 @@
       <workItem from="1541005833808" duration="46000" />
       <workItem from="1541388841887" duration="1418000" />
       <workItem from="1620330569204" duration="7688000" />
-      <workItem from="1620414538019" duration="1228000" />
+      <workItem from="1620414538019" duration="1841000" />
+      <workItem from="1620846955600" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] experience and portfolio">
       <created>1620399041907</created>
@@ -148,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620415606745</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[FIX] meta content description">
+      <created>1620415788541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620415788541</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -199,7 +208,8 @@
     <MESSAGE value="[ADD] experience and portfolio" />
     <MESSAGE value="[FIX] Change blue" />
     <MESSAGE value="[FIX] Information" />
-    <option name="LAST_COMMIT_MESSAGE" value="[FIX] Information" />
+    <MESSAGE value="[FIX] meta content description" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FIX] meta content description" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
