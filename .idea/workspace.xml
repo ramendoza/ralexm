@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="[FIX] Add flutter framework" />
+    <list default="true" id="ed2f4c43-d332-43e9-ad5c-2fbcda521502" name="Default" comment="[FIX] Add flutter framework">
+      <change afterPath="$PROJECT_DIR$/images/cc-bg-1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/apklis.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/apklis_ad.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/atinta.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/atinta_ad.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/dv.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/flower.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/flower_ad.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/merco.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/merconnect.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/merconnect_ad.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/pj.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/shop_ad.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/t2f.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/taza.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/techie.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/wsdev.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ralex.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-bg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/dv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/flower_ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/merco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/shop_ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/taza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/techie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/wsdev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ralex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/staticmap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +75,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="1" />
@@ -78,21 +117,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ralex/WebstormProjects/ralexm/images/portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ralex\WebstormProjects\ralexm\images\portfolio" />
+      <recent name="C:\Users\ralex\WebstormProjects\ralexm\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -111,6 +154,7 @@
       <workItem from="1620330569204" duration="7688000" />
       <workItem from="1620414538019" duration="1841000" />
       <workItem from="1620846955600" duration="491000" />
+      <workItem from="1704670839456" duration="4694000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] experience and portfolio">
       <created>1620399041907</created>
@@ -212,7 +256,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
